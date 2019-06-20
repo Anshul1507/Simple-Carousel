@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestingCarousel</string>
+    <string name="title_1">Food</string>
+    <string name="title_2">Ok card</string>
+    <string name="title_3">Bad card</string>
+    <string name="title_4">Ugly card</string>
+
+    <string name="text_1">Spent: Rs.1200 \n\n Left: Rs. 500</string>
+
+</resources>
